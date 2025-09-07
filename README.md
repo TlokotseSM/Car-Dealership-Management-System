@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/images/logo.png" width="200" alt="AutoDealer Logo" />
+  <img src="public/images/Logo.png" width="200" alt="AutoDealer Logo" />
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/car-dealership-pro/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/yourusername/car-dealership-pro?style=social" alt="Stars" /></a>
-  <a href="https://github.com/yourusername/car-dealership-pro/network" target="_blank"><img src="https://img.shields.io/github/forks/yourusername/car-dealership-pro?style=social" alt="Forks" /></a>
-  <a href="https://github.com/yourusername/car-dealership-pro/issues" target="_blank"><img src="https://img.shields.io/github/issues/yourusername/car-dealership-pro" alt="Issues" /></a>
-  <a href="https://github.com/yourusername/car-dealership-pro/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/yourusername/car-dealership-pro" alt="License" /></a>
+  <a href="https://github.com/TlokotseSM/Car-Dealership-Management-System/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/yourusername/car-dealership-pro?style=social" alt="Stars" /></a>
+  <a href="https://github.com/TlokotseSM/Car-Dealership-Management-System/network" target="_blank"><img src="https://img.shields.io/github/forks/yourusername/car-dealership-pro?style=social" alt="Forks" /></a>
+  <a href="https://github.com/TlokotseSM/Car-Dealership-Management-System/issues" target="_blank"><img src="https://img.shields.io/github/issues/yourusername/car-dealership-pro" alt="Issues" /></a>
+  <a href="https://github.com/TlokotseSM/Car-Dealership-Management-System/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/yourusername/car-dealership-pro" alt="License" /></a>
 </p>
 
 ---
@@ -317,7 +317,7 @@ car-dealership/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/car-dealership-pro.git
+   git clone https://github.com/TlokotseSM/Car-Dealership-Management-System.git
    cd car-dealership-pro
    ```
 
@@ -380,8 +380,8 @@ Content-Type: application/json
 
 {
   "firstName": "John",
-  "lastName": "Doe",
-  "email": "john@example.com",
+  "lastName": "Masemola",
+  "email": "john@email.com",
   "password": "password123",
   "role": "salesperson",
   "phone": "+1234567890"
@@ -394,7 +394,7 @@ POST /api/auth/login
 Content-Type: application/json
 
 {
-  "email": "john@example.com",
+  "email": "john@email.com",
   "password": "password123"
 }
 ```
@@ -444,8 +444,8 @@ Content-Type: application/json
 {
   "firstName": "Jane",
   "lastName": "Smith",
-  "email": "jane@example.com",
-  "phone": "+1987654321",
+  "email": "jane@email.com",
+  "phone": "+2787654321",
   "address": {
     "street": "123 Main St",
     "city": "Anytown",
@@ -713,9 +713,9 @@ We welcome contributions to AutoDealer Pro! Please follow these guidelines:
 
 ### **Getting Help**
 
-- **Documentation:** [Project Wiki](https://github.com/yourusername/car-dealership-pro/wiki)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/car-dealership-pro/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/car-dealership-pro/discussions)
+- **Documentation:** [Project Wiki](https://github.com/TlokotseSM/Car-Dealership-Management-System/wiki)
+- **Issues:** [GitHub Issues](https://github.com/TlokotseSM/Car-Dealership-Management-System/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/TlokotseSM/Car-Dealership-Management-System/discussions)
 
 ### **Community**
 
@@ -738,19 +738,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Authors
 
 **Your Name**
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/tlokotse-mogudi/)
+- **GitHub:** [@yourusername](https://github.com/TlokotseSM)
+- **Portfolio:** [your-portfolio.com](https://tlokotsesm.github.io/tlokotse-portfolio/)
+- **Email:** tlokotsemogudi@gmail.com
 
 ---
 
 <p align="center">
-  ⭐️ <b>If you find this project helpful, please consider <a href="https://github.com/yourusername/car-dealership-pro/stargazers">starring it on GitHub</a>!</b> ⭐️
+  ⭐️ <b>If you find this project helpful, please consider <a href="https://github.com/TlokotseSM/Car-Dealership-Management-System/stargazers">starring it on GitHub</a>!</b> ⭐️
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+  <a href="https://buymeacoffee.com/TlokotseSM" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
 </p>
 
 ---
@@ -759,9 +759,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Share AutoDealer Pro with the automotive and development communities!
 
-- **Tweet:** [Share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20AutoDealer%20Pro%20-%20a%20comprehensive%20car%20dealership%20management%20system!%20https://github.com/yourusername/car-dealership-pro)
-- **LinkedIn:** [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/yourusername/car-dealership-pro&title=AutoDealer%20Pro%20Car%20Dealership%20Management%20System)
-- **Star:** ⭐️ [Star this repository](https://github.com/yourusername/car-dealership-pro/stargazers)
+- **Tweet:** [Share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20AutoDealer%20Pro%20-%20a%20comprehensive%20car%20dealership%20management%20system!%20https://github.com/TlokotseSM/Car-Dealership-Management-System)
+- **LinkedIn:** [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/TlokotseSM/Car-Dealership-Management-System&title=AutoDealer%20Pro%20Car%20Dealership%20Management%20System)
+- **Star:** ⭐️ [Star this repository](https://github.com/TlokotseSM/Car-Dealership-Management-System/stargazers)
 
 ---
 
