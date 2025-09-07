@@ -738,9 +738,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Authors
 
 **Your Name**
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/tlokotse-mogudi/)
-- **GitHub:** [@yourusername](https://github.com/TlokotseSM)
-- **Portfolio:** [your-portfolio.com](https://tlokotsesm.github.io/tlokotse-portfolio/)
+- **LinkedIn:** [Tlokotse Mogudi](https://www.linkedin.com/in/tlokotse-mogudi/)
+- **GitHub:** [@TlokotseSM](https://github.com/TlokotseSM)
+- **Portfolio:** [tlokotsesm.github.io](https://tlokotsesm.github.io/tlokotse-portfolio/)
 - **Email:** tlokotsemogudi@gmail.com
 
 ---
